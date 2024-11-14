@@ -104,10 +104,11 @@
 	animation-name: title;
 	animation-duration: 13s;
 	animation-iteration-count: 1;
+	animation-delay: 3s;
 }
 
 @keyframes title{
-	20%{
+	0%{
 		width: 0px;
 	    height: 0px;
 	    top: 200px;
